@@ -1,6 +1,8 @@
 #include<stdio.h>
 #include<stdlib.h>
 
+//AVL tree is a self balancing binary search tree 
+
 struct node{
     int data;
     int height;
